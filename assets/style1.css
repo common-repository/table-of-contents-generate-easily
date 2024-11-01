@@ -1,0 +1,6 @@
+.table-of-contents-easily{padding-bottom: 5px;border:2px solid #1abc9c;background:#ffffff;line-height:22px;max-width:30%;font-size:12px;position:relative;border-radius:3px;-webkit-border-radius: 3px;margin: 0 10px 10px 10px;}
+.table-of-contents-easily ul{margin-left: 22px;list-style: square;padding:0;margin-right: 5px;margin-bottom: 5px;}
+.table-of-contents-easily .the-toc-title{padding: 10px 20px;margin-bottom: 5px;font-size:150%;font-weight:bold;color: #fff;background-color: #1abc9c;text-align: center;text-indent: 0;float: none;}
+.table-of-contents-easily .the-toc-toctoggle{font-size:12px;margin: 10px;}
+.table-of-contents-easily #the-toc-togglelink{color: #FF2654;}
+.table-of-contents-easily .the-toc-link{color: #FF2654 !important;}
